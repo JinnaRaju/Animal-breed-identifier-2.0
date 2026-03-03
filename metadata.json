@@ -1,0 +1,8 @@
+{
+  "name": "Animal Breed Identifier",
+  "description": "An AI-powered application that identifies animal breeds from uploaded photos using the Gemini API. Features include user authentication, history tracking, and a comprehensive admin dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
