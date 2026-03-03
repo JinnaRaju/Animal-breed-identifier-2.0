@@ -294,6 +294,3 @@ export const decodeAudioData = async (
   }
   return buffer;
 };
-const ai=getAI();
-const models=await ai.models.list();
-console.log(models);
